@@ -15,7 +15,7 @@ redirect_from:
 <br/>
 Welcome to my website! I am Yutong Hou. I define myself as a…
 
-# Lifelong Learner
+## Lifelong Learner
 
 I&#39;m currently pursuing a Master&#39;s Degree in Marketing Analytics at Simon Business School, University of Rochester, where I learned solid quantitative skills in data processing and analysis with SQL, R programming languages, data visualization with Tableau. The website shows my projects in [Business Analytics](https://yutong-hou.github.io/business-analytics/) with using R, SQL, and Tableau to solve business cases and give recommendations. You can also check my cases in [Digital Marketing](https://yutong-hou.github.io/digital-marketing/) where I show my marketing knowledges and skills such as SEO analysis, SEM and Paid Social, campaign planning and launching.
 
@@ -31,7 +31,7 @@ _University of Rochester_
 
 
 
-# Huskies
+## Huskies
 
 Prior to Simon, I graduated from University of Washington with a Bachelor&#39;s Degree of Economics and Communication. It is the place where my dream of being a marketer and analyst begins. At UW, we are all &quot;Huskies&quot;!
 
@@ -41,7 +41,7 @@ _University of Washington_
 
 
 
-# Traveler
+## Traveler
 
 I love to travel all around the world and experience various cultures. I believe meeting people from all corners would bring a NEW MYSELF.
 
