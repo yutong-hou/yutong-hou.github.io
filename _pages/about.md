@@ -17,7 +17,7 @@ Welcome to my website! I am Yutong Hou. I define myself as a…
 
 ## Lifelong Learner
 
-I&#39;m currently pursuing a Master&#39;s Degree in Marketing Analytics at Simon Business School, University of Rochester, where I learned solid quantitative skills in data processing and analysis with SQL, R programming languages, data visualization with Tableau. The website shows my projects in [Business Analytics](https://yutong-hou.github.io/business-analytics/) with using R, SQL, and Tableau to solve business cases and give recommendations. You can also check my cases in [Digital Marketing](https://yutong-hou.github.io/digital-marketing/) where I show my marketing knowledges and skills such as SEO analysis, SEM and Paid Social, campaign planning and launching.
+I&#39;m currently pursuing a Master&#39;s Degree in Marketing Analytics at Simon Business School, University of Rochester, where I learned solid quantitative skills in data processing and analysis with SQL, R programming languages, data visualization with Tableau. The website shows my projects in [Business Analytics](https://yutong-hou.github.io/business-analytics/) with using R, SQL, and Tableau to solve business cases and give recommendations. You can also check my cases in [Digital Marketing](https://yutong-hou.github.io/digital-marketing/) where I show my marketing knowledges and skills such as SEO analysis, SEM and Paid Social, Google Analytics and AdWords.
 
 ![](/images/Picture1.png)
 
