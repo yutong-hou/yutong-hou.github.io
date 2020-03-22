@@ -50,5 +50,9 @@ I utilized Google AdWords to define key words for Paid Search Ads, tweak headlin
 
 [M&T Bank - Digital Marketing Strategies Targeting College Students](https://yutong-hou.github.io/files/M&T Bank project.pdf)
 
+The goal for this project is to deliver digital marketing recommendations for them to identify potential customer segmentation and realize the acquisition and conversion objectives.
+
+We did situation analysis for M&T Bank to explore its internal and external execution performance, and then make our recommendations from digital marketing insights to improve SEO, M&T Bank website, social media platforms, and display advertising. 
+
 
 [![](/images/mt-logo1-sm.jpg){:width="462"}](https://yutong-hou.github.io/files/M&T Bank project.pdf)
