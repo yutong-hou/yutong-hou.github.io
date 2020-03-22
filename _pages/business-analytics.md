@@ -31,7 +31,11 @@ Lastly, I applied the model on the test dataset and resulted in accuracy around 
 
 The goal is to make recommendations about the toy horse product line. 
 
-Firstly, we used regression to estimate the conjoint model at the individual level. Then explored the best market segmentations by conducting priori segmentation analysis and post-hoc clustering. Finally, we simulated market shares for different product-line scenarios and identified the best possible product line strategy given considerations related to competitive response, cannibalization, profitability and long-run performance.
+Firstly, we used regression to estimate the conjoint model at the individual level. 
+
+Then explored the best market segmentations by conducting priori segmentation analysis and post-hoc clustering. 
+
+Finally, we simulated market shares for different product-line scenarios and identified the best possible product line strategy given considerations related to competitive response, cannibalization, profitability and long-run performance.
 
 [![](/images/Conjoint Analysis-Toy Horse .png){:width="462"}](https://yutong-hou.github.io/files/Conjoint Analysis-Toy Horse.pdf)
 
