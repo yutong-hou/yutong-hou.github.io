@@ -27,7 +27,7 @@ I utilized MOZ to analyze gap and opportunity for brand website, identifying the
 
 Finally optimized existing content to improve domain expertise and SEO customer volume.
 
-(https://yutong-hou.github.io/files/SEO.pdf)
+[![](/images/parisa wang 3.jpg){:width="462"}](https://yutong-hou.github.io/files/SEO.pdf)
 
 ---
 
