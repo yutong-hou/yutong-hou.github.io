@@ -23,7 +23,7 @@ I developed digital marketing strategy with industrial research and competitor a
 
 [Parisa Wang - SEO Analysis](https://yutong-hou.github.io/files/SEO.pdf)
 
-I Utilized MOZ to analyze gap and opportunity for brand website, identifying the keywords with low ranking and find out potential opportunity for keyword targeting. (i.e. recommending high searching volume keywords from google search; identifying the potential keywords from backlinks)
+I utilized MOZ to analyze gap and opportunity for brand website, identifying the keywords with low ranking and find out potential opportunity for keyword targeting. (i.e. recommending high searching volume keywords from google search; identifying the potential keywords from backlinks)
 
 Finally optimized existing content to improve domain expertise and SEO customer volume.
 
